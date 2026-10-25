@@ -43,3 +43,20 @@ If PowerShell blocks environment activation, run:
 - Activity costs are approximate illustrative estimates. They exclude many trip costs such as accommodation and transport.
 - JSON trip history is local/demo persistence. Files on hosted app instances may not be durable across restarts or redeployments. Use Supabase or another persistent store for production.
 - The optional provider/key fields are a UI placeholder; the current version does not send requests to Gemini or Groq. Never commit API keys.
+## 🌐 Live Demo
+
+**Try the application:** https://personalized-travel-itinerary-planner-cfhjzeymjvsrfha8yazgep.streamlit.app/
+
+## 💻 Source Code
+
+Explore the complete source code in this repository.
+
+## ✨ Features
+- Personalized destination recommendations
+- Day-by-day itinerary generation
+- Activity customization
+- Budget estimation
+- Trip history and PDF export
+
+## 🛠️ Tech Stack
+Python · Streamlit · Pandas · ReportLab · JSON
